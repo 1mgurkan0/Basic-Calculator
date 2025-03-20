@@ -1,0 +1,34 @@
+button{
+    width: 30px;
+    height: 30px;
+    margin-top: 4px;
+    background-color: white;
+    border:none;
+    box-shadow: 10px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 22px;
+    color: black;
+    border-radius: 5px;
+}
+.ekran{
+    width:125px;
+    margin-top:2px;
+    margin-bottom:6px;
+    border-radius: 5px;
+    height: 25px;
+    background-color: rgb(204, 214, 217);
+    text-align: right;
+    font-size: 20px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+}
+.hesaptablosu{
+    position: absolute;
+    padding: 10px;
+    margin-top: 10%;
+    margin-left: 40%;
+    background-color: rgb(106, 106, 106);
+    width: auto;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 2px 2px  2px black;
+}
